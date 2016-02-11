@@ -1,2 +1,3 @@
 This file is added from cloned workspace.
 Another line.
+Added by another cloner.
